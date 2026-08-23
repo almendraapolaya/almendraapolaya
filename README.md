@@ -73,9 +73,9 @@ I am a **Data Analyst and Developer** transitioning from a background in technic
 ## 📊 GitHub Analytics 📈
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=almendraapolaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Almendra's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=almendraapolaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Almendra's GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almendraapolaya&theme=tokyonight&hide_border=true&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=almendraapolaya&theme=tokyonight&hide_border=true&layout=compact" alt="Most Used Languages" />
 </div>
 
 <br />
