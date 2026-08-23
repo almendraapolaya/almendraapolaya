@@ -5,12 +5,12 @@
 </h2>
 
 <div align="center">
-  <img alt="Come on in - The Good Place" src="https://media.giphy.com/media/l1Kic73acggmOHMK4/giphy.gif" width="400"/>
+  <img alt="Come on in - The Good Place" src="https://media.giphy.com/media/KczqttEJqm55hE1ccU/giphy.gif" width="400"/>
 </div>
 
 <br />
 
-## 🌸 About Me✨
+## 🌸 About Me ✨
 
 I am a **Data Analyst and Developer** transitioning from a background in technical support and the performing arts into the world of data! I love transforming raw data into clear, actionable insights, building automated pipelines, and crafting interactive dashboards.
 
