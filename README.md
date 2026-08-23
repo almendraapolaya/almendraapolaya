@@ -83,7 +83,7 @@ I am a **Data Analyst and Developer** transitioning from a background in technic
 ## 📬 Connect With Me 📞
 
 <p align="center">
-  <i>Let's connect and talk about data, technology, or music!🎶</i><br/><br/>
+  <i>Let's connect and talk about data📉, technology 🖥️, or music!🎶</i><br/><br/>
   <a href="https://www.linkedin.com/in/emmy-almendra-apolaya-lachos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
