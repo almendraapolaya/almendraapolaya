@@ -17,3 +17,27 @@ I am a **Data Analyst and Developer** transitioning from a background in technic
 - 🔭 **Focus Areas:** Python, Data Analytics, Relational Databases (PostgreSQL), and Machine Learning.
 - 📊 **Visualization:** Designing impactful dashboards to tell compelling data stories.
 - ⚡ **Beyond the Code:** Singer, actress, distance runner, and dog lover!
+
+
+<br />
+
+## 💻 Tech Stack & Tools 🤓
+
+<details open>
+  <summary><b>Languages & Data Analysis</b></summary>
+  <br />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</details>
+
+<details open>
+  <summary><b>Databases & Tools</b></summary>
+  <br />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</details>
