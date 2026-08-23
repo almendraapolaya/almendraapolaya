@@ -66,3 +66,28 @@ I am a **Data Analyst and Developer** transitioning from a background in technic
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </details>
+
+
+<br />
+
+## 📊 GitHub Analytics 📈
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=almendraapolaya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Almendra's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almendraapolaya&theme=tokyonight&hide_border=true&layout=compact" alt="Most Used Languages" />
+</div>
+
+<br />
+
+## 📬 Connect With Me 📞
+
+<p align="center">
+  <i>Let's connect and talk about data, technology, or music!🎶</i><br/><br/>
+  <a href="https://www.linkedin.com/in/emmy-almendra-apolaya-lachos/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:almendraapolaya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
