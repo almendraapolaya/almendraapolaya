@@ -2,6 +2,9 @@
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=almendraapolaya&color=FFB6C1&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Data Analyst | Python & SQL Developer
+  <a href="https://datascienceportfol.io/almendraapolaya" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
+  </a>
 </h2>
 
 <div align="center">
@@ -37,7 +40,9 @@ I am a **Data Analyst and Developer** transitioning from a background in technic
   <summary><b>Databases & Tools</b></summary>
   <br />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <a href="https://public.tableau.com/app/profile/almendra.apolaya/vizzes" target="_blank">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+</a>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </details>
@@ -84,8 +89,14 @@ I am a **Data Analyst and Developer** transitioning from a background in technic
 
 <p align="center">
   <i>Let's connect and talk about data📉, technology 🖥️, or music!🎶</i><br/><br/>
+  <a href="https://datascienceportfol.io/almendraapolaya" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/emmy-almendra-apolaya-lachos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/almendra.apolaya/vizzes" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
   </a>
   <a href="mailto:almendraapolaya@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
