@@ -41,3 +41,28 @@ I am a **Data Analyst and Developer** transitioning from a background in technic
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </details>
+
+
+<br />
+
+## 🚀 Featured Projects  📂
+
+<details open>
+  <summary><b>TalkToData</b></summary>
+  <br />
+  <p>An automated data engineering pipeline built to scrape, load, and query job market analytics using relational database architecture.</p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+</details>
+
+<br />
+
+<details open>
+  <summary><b>The Critical Eye</b></summary>
+  <br />
+  <p>An NLP and machine learning text classification workflow analyzing media sources, featuring custom sentiment analysis and dynamic visual reporting.</p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</details>
